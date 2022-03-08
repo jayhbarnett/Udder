@@ -1,4 +1,4 @@
 # Udder
 
 
-this is an app that gives yiu on demand fresh milk
+this is an app that gives you on demand fresh milk
